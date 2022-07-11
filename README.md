@@ -2,4 +2,4 @@
 
 # Chapter 1 Day 1
 
-all is clear enough (seems like) =)
+Now is clear enough (seems like) 
