@@ -2,12 +2,12 @@
 
 # Chapter 1. Day 1.
 
-Quests:
+### Quests:
 1) Explain what the Blockchain is in your own words. 
 2) Explain what a Smart Contract is. 
 3) Explain the difference between a script and a transaction.
 
-Answers:
+### Answers:
 
 1)
 
@@ -18,15 +18,15 @@ Answers:
 
 # Chapter 1. Day 2.
 
-Quests:
+### Quests:
 1) What are the 5 Cadence Programming Language Pillars?
 2) In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful?
 
-Answers:
+### Answers:
 
 1)
 
 2)
 
 
-= ^_^ =
+### = ^_^ =
