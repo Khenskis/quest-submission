@@ -3,11 +3,11 @@
 # Chapter 1. Day 1.
 
 ### Quests:
-1) Explain what the ## Blockchain is in your own words. 
+1) Explain what the Blockchain is in your own words. 
 2) Explain what a Smart Contract is. 
 3) Explain the difference between a script and a transaction.
 
-### Answers:
+## Answers:
 
 1)
 
