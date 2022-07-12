@@ -7,7 +7,7 @@
 2) Explain what a Smart Contract is. 
 3) Explain the difference between a script and a transaction.
 
-## Answers:
+### Answers:
 
 1)
 
