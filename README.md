@@ -8,6 +8,7 @@ Quests:
 3) Explain the difference between a script and a transaction.
 
 Answers:
+
 1)
 
 2)
@@ -22,6 +23,7 @@ Quests:
 2) In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful?
 
 Answers:
+
 1)
 
 2)
