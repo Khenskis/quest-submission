@@ -38,7 +38,12 @@ Once a smart contract is deployed on the blockchain it will then execute the act
    Developer Experience,
    Resource Oriented Programming.
 
-2) The 5 Pillars are useful because 
+2) The 5 Pillars are useful because:
+Safety and Security -  Developers can focus on building their contracts without having to worry about there being any security exploits in their contracts.
+Clarity - Users can verify that the contract is safe and see clearly the real intention of developer. That’s cool. 
+Approachability - Developers can do transition  to Cadence with ease because  Cadence is written is very familiar to other programming languages. 
+Developer Experience - Cadence makes error messages very clear. So developers can easily debug an error.
+
 
 
 # Chapter 2. Day 1.
