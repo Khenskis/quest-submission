@@ -50,5 +50,7 @@ For todays quest, please load up a new Flow playground by going to https://play.
 
 
 ### Answers:
-1)
+<img width="1106" alt="Снимок экрана 2022-07-13 в 18 13 13" src="https://user-images.githubusercontent.com/109018467/178742845-56e88a44-33fa-4afc-8e69-a0ff4ccec113.png">
+<img width="1104" alt="Снимок экрана 2022-07-13 в 18 15 27" src="https://user-images.githubusercontent.com/109018467/178742917-5e7d868b-4374-460a-8152-7c749165f444.png">
+
 ### = ^_^ =
