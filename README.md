@@ -10,15 +10,14 @@
 ### Answers:
 
 1) Blockchain is a shared database. 
- It is open, decentralized and public.
- Everyone can interact with it.  
- Nobody owns it ( no single person or group has control - rather, all users collectively retain control). 
- Anyone can view the data on it. 
- Blockchain stores data in blocks that are then linked together via cryptography. 
+   It is open, decentralized and public.
+   Everyone can interact with it.  
+   Nobody owns it ( no single person or group has control - rather, all users collectively retain control). 
+   Anyone can view the data on it. 
+   Blockchain stores data in blocks that are then linked together via cryptography. 
 
 2) Smart contracts are programs stored on a blockchain that run when predetermined conditions are met. 
-
-Once a smart contract is deployed on the blockchain it will then execute the actions that were written inside of the contract.
+   Once a smart contract is deployed on the blockchain it will then execute the actions that were written inside of the contract.
 
 3) A transaction is a paid. Script is free.
    A transaction changes the data on the Blockchain. Script only view data on the Blockchain, and do not change it.
@@ -39,10 +38,10 @@ Once a smart contract is deployed on the blockchain it will then execute the act
    Resource Oriented Programming.
 
 2) The 5 Pillars are useful because:
-Safety and Security -  Developers can focus on building their contracts without having to worry about there being any security exploits in their contracts.
-Clarity - Users can verify that the contract is safe and see clearly the real intention of developer. That’s cool. 
-Approachability - Developers can do transition  to Cadence with ease because  Cadence is written is very familiar to other programming languages. 
-Developer Experience - Cadence makes error messages very clear. So developers can easily debug an error.
+   Safety and Security -  Developers can focus on building their contracts without having to worry about there being any security exploits in their   contracts.
+   Clarity - Users can verify that the contract is safe and see clearly the real intention of developer. That’s cool. 
+   Approachability - Developers can do transition  to Cadence with ease because  Cadence is written is very familiar to other programming languages. 
+   Developer Experience - Cadence makes error messages very clear. So developers can easily debug an error.
 
 
 
