@@ -20,7 +20,7 @@
 
 Once a smart contract is deployed on the blockchain it will then execute the actions that were written inside of the contract.
 
-3) A transaction is a paid function call. Script is free.
+3) A transaction is a paid. Script is free.
    A transaction changes the data on the Blockchain. Script only view data on the Blockchain, and do not change it.
 
 
@@ -32,7 +32,11 @@ Once a smart contract is deployed on the blockchain it will then execute the act
 
 ### Answers:
 
-1)
+1) Safety and security 
+   Clarity 
+   Approachability 
+   Developer Experience 
+   Resource Oriented Programming 
 
 2)
 
