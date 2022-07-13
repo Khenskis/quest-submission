@@ -32,11 +32,11 @@ Once a smart contract is deployed on the blockchain it will then execute the act
 
 ### Answers:
 
-1) Safety and security 
-   Clarity 
-   Approachability 
-   Developer Experience 
-   Resource Oriented Programming 
+1) Safety and security,
+   Clarity,
+   Approachability, 
+   Developer Experience,
+   Resource Oriented Programming.
 
 2)
 
