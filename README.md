@@ -9,11 +9,17 @@
 
 ### Answers:
 
-1)
+1) Blockchain is a shared database. 
+It is open, decentralized and public. 
+Everyone can interact with it.  
+Nobody owns it ( no single person or group has control - rather, all users collectively retain control). 
+Anyone can view the data on it. 
+Blockchain stores data in blocks that are then linked together via cryptography. 
 
 2)
 
-3)
+3) A transaction is a paid function call. Script is free. 
+A transaction changes the data on the Blockchain. Script only view data on the Blockchain, and do not change it.
 
 
 # Chapter 1. Day 2.
