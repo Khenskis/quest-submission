@@ -38,7 +38,7 @@ Once a smart contract is deployed on the blockchain it will then execute the act
    Developer Experience,
    Resource Oriented Programming.
 
-2)
+2) The 5 Pillars are useful because 
 
 
 # Chapter 2. Day 1.
