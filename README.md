@@ -90,6 +90,46 @@ Add a transaction that takes in a parameter named myNewNumber and passes it into
 
 # Chapter 2. Day 3.
 
+## Quests:
+1) In a script, initialize an array (that has length == 3) of your favourite people, represented as Strings, and log it.
+
+2) In a script, initialize a dictionary that maps the Strings Facebook, Instagram, Twitter, YouTube, Reddit, and LinkedIn to a UInt64 that represents the order in which you use them from most to least. For example, YouTube --> 1, Reddit --> 2, etc. If you've never used one before, map it to 0!
+
+3) Explain what the force unwrap operator ! does, with an example different from the one I showed you (you can just change the type).
+
+4) Using this picture below, explain...
+
+What the error message means
+Why we're getting this error
+How to fix it
+
+## Answers:
+
 # Chapter 2. Day 4.
+
+## Quests: 
+
+1) Deploy a new contract that has a Struct of your choosing inside of it (must be different than Profile).
+
+2) Create a dictionary or array that contains the Struct you defined.
+
+3) Create a function to add to that array/dictionary.
+
+4) Add a transaction to call that function in step 3.
+
+Add a script to read the Struct you defined.
+
+That's all! See you tomorrow folks ;)
+
+## Answers:
+
+
+# Chapter 3. Day 1.
+# Chapter 3. Day 2.
+# Chapter 3. Day 3.
+# Chapter 3. Day 4.
+# Chapter 3. Day 5.
+
+
 
 ### = ^_^ =
