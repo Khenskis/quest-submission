@@ -81,7 +81,9 @@ Add a transaction that takes in a parameter named myNewNumber and passes it into
 
 ### Answers:
 
-
+1) ss
+2) In the prepare phase of the transaction 'AuthAccount' means access the data in your account. Because on Flow accounts can store their own data.
+3) 
 
 
 
