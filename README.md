@@ -81,7 +81,7 @@ Add a transaction that takes in a parameter named myNewNumber and passes it into
 
 ### Answers:
 
-1) ss
+1) Because we cannot change any information in script.
 2) In the prepare phase of the transaction 'AuthAccount' means access the data in your account. Because on Flow accounts can store their own data.
 3) Prepare phase do access the information/data in your account. Execute phase can't do that.
 4) 
