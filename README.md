@@ -84,7 +84,8 @@ Add a transaction that takes in a parameter named myNewNumber and passes it into
 1) Because we cannot change any information in script.
 2) In the prepare phase of the transaction 'AuthAccount' means access the data in your account. Because on Flow accounts can store their own data.
 3) Prepare phase do access the information/data in your account. Execute phase can't do that. If we want to change only some data in smart contract we call function in  the execute phase.
-4) 
+4) <img width="1103" alt="Снимок экрана 2022-07-23 в 01 40 36" src="https://user-images.githubusercontent.com/109018467/180567137-2833f9f1-3923-4b83-9f32-552fe4b0419a.png">
+
 
 
 
