@@ -86,6 +86,11 @@ Add a transaction that takes in a parameter named myNewNumber and passes it into
 3) Prepare phase do access the information/data in your account. Execute phase can't do that. If we want to change only some data in smart contract we call function in  the execute phase.
 4) <img width="1103" alt="Снимок экрана 2022-07-23 в 01 40 36" src="https://user-images.githubusercontent.com/109018467/180567137-2833f9f1-3923-4b83-9f32-552fe4b0419a.png">
 
+<img width="1101" alt="Снимок экрана 2022-07-23 в 01 44 50" src="https://user-images.githubusercontent.com/109018467/180567287-3fedc8b1-cc20-496b-be0e-b211eaba9c15.png">
+
+
+<img width="1109" alt="Снимок экрана 2022-07-23 в 01 48 00" src="https://user-images.githubusercontent.com/109018467/180567309-b11787c3-640a-4dc7-aceb-3dbe5adfef45.png">
+
 
 
 
