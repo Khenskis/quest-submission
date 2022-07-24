@@ -149,9 +149,51 @@ As always, feel free to answer in the language of your choice.
 
 
 # Chapter 3. Day 2.
+
+## Quests%
+
+For today's quest, you'll have 1 large quest instead of a few little ones.
+
+1) Write your own smart contract that contains two state variables: an array of resources, and a dictionary of resources. Add functions to remove and add to each of them. They must be different from the examples above.
+
+## Answers:
+
+
 # Chapter 3. Day 3.
+
+## Quests:
+
+1) Define your own contract that stores a dictionary of resources. Add a function to get a reference to one of the resources in the dictionary.
+
+2) Create a script that reads information from that resource using the reference from the function you defined in part 1.
+
+3) Explain, in your own words, why references can be useful in Cadence.
+
+## Answers:
+
 # Chapter 3. Day 4.
+
+## Quests:
+
+1) Explain, in your own words, the 2 things resource interfaces can be used for (we went over both in today's content)
+
+2) Define your own contract. Make your own resource interface and a resource that implements the interface. Create 2 functions. In the 1st function, show an example of not restricting the type of the resource and accessing its content. In the 2nd function, show an example of restricting the type of the resource and NOT being able to access its content.
+
+3) How would we fix this code?
+
+## Answers:
+
+
 # Chapter 3. Day 5.
+
+## Quests:
+1) For today's quest, you will be looking at a contract and a script. You will be looking at 4 variables (a, b, c, d) and 3 functions (publicFunc, contractFunc, privateFunc) defined in SomeContract. In each AREA (1, 2, 3, and 4), I want you to do the following: for each variable (a, b, c, and d), tell me in which areas they can be read (read scope) and which areas they can be modified (write scope). For each function (publicFunc, contractFunc, and privateFunc), simply tell me where they can be called.
+
+
+## Answers:
+
+
+
 
 
 
