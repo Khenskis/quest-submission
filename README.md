@@ -111,6 +111,12 @@ How to fix it
 
 ## Answers:
 
+1) <img width="1120" alt="Снимок экрана 2022-07-27 в 22 40 08" src="https://user-images.githubusercontent.com/109018467/181355295-660124a3-3c4e-4249-8006-f88537566138.png">
+
+2) <img width="1275" alt="Снимок экрана 2022-07-28 в 00 20 20" src="https://user-images.githubusercontent.com/109018467/181355349-16619fff-9ac3-4fd7-b90b-4e3988ea9520.png">
+
+3) 
+
 # Chapter 2. Day 4.
 
 ## Quests: 
