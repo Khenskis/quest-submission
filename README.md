@@ -115,7 +115,8 @@ How to fix it
 
 2) <img width="1275" alt="Снимок экрана 2022-07-28 в 00 20 20" src="https://user-images.githubusercontent.com/109018467/181355349-16619fff-9ac3-4fd7-b90b-4e3988ea9520.png">
 
-3 )<img width="1151" alt="Снимок экрана 2022-07-30 в 17 40 52" src="https://user-images.githubusercontent.com/109018467/181914844-2b990e67-bafc-40a6-b70a-3c8095b1c29e.png">
+3) The force unwrap operator !   "unwraps" an optional type by saying: "If this thing is nil, PANIC! If it's not nil, we're fine, but get rid of the optional type."
+<img width="1151" alt="Снимок экрана 2022-07-30 в 17 40 52" src="https://user-images.githubusercontent.com/109018467/181914844-2b990e67-bafc-40a6-b70a-3c8095b1c29e.png">
 
 4) 
 
