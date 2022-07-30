@@ -118,7 +118,11 @@ How to fix it
 3) The force unwrap operator !   "unwraps" an optional type by saying: "If this thing is nil, PANIC! If it's not nil, we're fine, but get rid of the optional type."
 <img width="1151" alt="Снимок экрана 2022-07-30 в 17 40 52" src="https://user-images.githubusercontent.com/109018467/181914844-2b990e67-bafc-40a6-b70a-3c8095b1c29e.png">
 
-4) 
+4) The error says: "Mismatched types. expected String, got String?".  In order to fix this error, we have to use the force-unwrap operator !, like so:
+ <img width="1153" alt="Снимок экрана 2022-07-30 в 20 17 26" src="https://user-images.githubusercontent.com/109018467/181920840-cbde64cb-34cc-454c-ada6-8929e62ef4ba.png">
+
+
+
 
 # Chapter 2. Day 4.
 
